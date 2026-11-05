@@ -2,7 +2,7 @@
 
 **Multimodal learning · LLM agents · Reinforcement learning**
 
-[简体中文](https://github.com/xiaofei1412/xiaofei1412/blob/main/README.zh-CN.md) · [Email](mailto:chen1989830903@gmail.com)
+[简体中文](https://github.com/xiaofei1412/xiaofei1412/blob/main/README.zh-CN.md) · [Email](mailto:chen1989830903@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=deSeHrIAAAAJ)
 
 I'm a **First-Class Honours graduate** in Information and Computing Science from **Xi'an Jiaotong-Liverpool University**. I work on multimodal evaluation, retrieval-grounded agents, and reinforcement learning, connecting algorithm experiments with usable systems.
 

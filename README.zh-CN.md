@@ -2,7 +2,7 @@
 
 **多模态学习 · 大模型 Agent · 强化学习**
 
-[English](https://github.com/xiaofei1412/xiaofei1412) · [邮箱](mailto:chen1989830903@gmail.com)
+[English](https://github.com/xiaofei1412/xiaofei1412) · [邮箱](mailto:chen1989830903@gmail.com) · [谷歌学术](https://scholar.google.com/citations?user=deSeHrIAAAAJ)
 
 毕业于**西交利物浦大学信息与计算科学专业，获一等荣誉学士学位**。我的研究与工程实践涵盖多模态评测、基于检索的 Agent 和强化学习，关注算法实验如何转化为可使用、可评估的系统。
 
