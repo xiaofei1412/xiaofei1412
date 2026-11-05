@@ -2,7 +2,7 @@
 
 **多模态学习 · 大模型 Agent · 强化学习**
 
-[English](https://github.com/xiaofei1412/xiaofei1412) · [邮箱](mailto:Xiaofei.Chen22@student.xjtlu.edu.cn)
+[English](https://github.com/xiaofei1412/xiaofei1412) · [邮箱](mailto:chen1989830903@gmail.com)
 
 毕业于**西交利物浦大学信息与计算科学专业，获一等荣誉学士学位**。我的研究与工程实践涵盖多模态评测、基于检索的 Agent 和强化学习，关注算法实验如何转化为可使用、可评估的系统。
 
@@ -36,7 +36,7 @@
 
 [代码](https://github.com/xiaofei1412/yixi-go) · [项目介绍与下载](https://xiaofei1412.github.io/yixi-go/)
 
-### 笔杆子 · 地方知识 RAG 与人在回路 Agent
+### 笔杆子（cswriter） · 地方知识 RAG 与人在回路 Agent
 
 整理 **44,176 条常熟新闻记录**，融合语义／关键词检索、查询扩写与 RRF。搭建**持久化 DAG Agent harness**，结合可复用 Skill、工具 Schema、逐节点人工审批、反馈修订与版本对照。
 

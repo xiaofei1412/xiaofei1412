@@ -2,7 +2,7 @@
 
 **Multimodal learning · LLM agents · Reinforcement learning**
 
-[简体中文](https://github.com/xiaofei1412/xiaofei1412/blob/main/README.zh-CN.md) · [Email](mailto:Xiaofei.Chen22@student.xjtlu.edu.cn)
+[简体中文](https://github.com/xiaofei1412/xiaofei1412/blob/main/README.zh-CN.md) · [Email](mailto:chen1989830903@gmail.com)
 
 I'm a **First-Class Honours graduate** in Information and Computing Science from **Xi'an Jiaotong-Liverpool University**. I work on multimodal evaluation, retrieval-grounded agents, and reinforcement learning, connecting algorithm experiments with usable systems.
 
@@ -36,7 +36,7 @@ Distilled KataGo search policies and value/score/ownership targets into a residu
 
 [Code](https://github.com/xiaofei1412/yixi-go) · [Project & downloads](https://xiaofei1412.github.io/yixi-go/)
 
-### Biganzi 笔杆子 · Local knowledge and human-in-the-loop agents
+### cswriter 笔杆子 · Local knowledge and human-in-the-loop agents
 
 Built RAG over **44,176 Changshu news records**, combining semantic/keyword retrieval, query expansion and RRF fusion. Developed a **persistent DAG agent harness** with reusable skills, schema-defined tools, and human approval, revision and version comparison.
 
